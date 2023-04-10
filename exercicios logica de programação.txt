@@ -1,0 +1,19 @@
+1. Escreva um programa que imprima todos os números pares de 0 a 100
+2. Escreva um programa que calcule a média aritmética de uma lista de números.
+3. Escreva um programa que encontre o número máximo em uma lista de números.
+4. Escreva um programa que determine se uma string é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente).
+5. Escreva um programa que calcule o fatorial de um número inteiro.
+6. Escreva um programa que imprima os números de Fibonacci até um determinado limite.
+7. Escreva um programa que calcule a soma dos dígitos de um número inteiro.
+8. Escreva um programa que determine se um número inteiro é primo ou não.
+9. Escreva um programa que calcule o máximo divisor comum (MDC) entre dois números inteiros.
+10. Escreva um programa que calcule o mínimo múltiplo comum (MMC) entre dois números inteiros.
+11. Escreva um programa que receba como entrada um array de números inteiros e calcule a soma de todos os elementos.
+12. Escreva um programa que receba como entrada um array de números inteiros e retorne o menor valor presente no array.
+13. Escreva um programa que receba como entrada um array de números inteiros e retorne o índice do maior valor presente no array.
+
+14. Escreva um programa que receba como entrada um array de strings e conte a quantidade de vezes que cada palavra aparece no array. O resultado deve ser armazenado em um HashMap.
+
+15. Escreva um programa que receba como entrada um array de números inteiros e retorne um novo array com apenas os valores pares do array original.
+16. Escreva um programa que receba como entrada um array de números inteiros e retorne um novo array com os valores do array original em ordem reversa.
+17. Escreva um programa que receba como entrada um array de strings e retorne um HashMap que associe cada palavra a uma lista de índices onde ela aparece.
